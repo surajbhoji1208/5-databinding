@@ -1,0 +1,14 @@
+#parent
+{
+    height: 50px;
+    width: 300px;
+    margin: 0 auto;
+    border: 1px solid;
+    text-align: center;
+    background-color: aqua;
+    border-top: none ;
+    border-left: none ;
+    border-right: none ;
+    box-shadow: 6px 12px 24px 2px black;;
+
+} 
